@@ -21,24 +21,3 @@ for i, row in df_alf.iterrows():
         letters.append(row["list"])  
         
 dt_rettificato.columns = letters    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
